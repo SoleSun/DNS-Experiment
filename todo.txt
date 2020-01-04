@@ -1,0 +1,2 @@
+Enable the DNS to be resolved over TLS 
+Extend the DNS functionality
